@@ -24,6 +24,7 @@ The `-destination` argument is only used to generate the self hosted URLs in the
 
 ### Examples:
 
+
 ```bash
 ./download-google-fonts -url "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400&display=swap" -destination "https://cdn.my-server.com/fonts" -output "fonts"
 ```
