@@ -22,7 +22,7 @@ Then you can call the CLI using `./download-google-fonts`.
 
 The `-destination` argument is only used to generate the self hosted URLs in the final CSS file. If this argument is omitted then the fonts will be referenced as if they live under the same path where the CSS file will be located.
 
-### Examples:
+### Examples:
 
 ```
 ./download-google-fonts -url "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400&display=swap" -destination "https://cdn.my-server.com/fonts" -output "fonts"
