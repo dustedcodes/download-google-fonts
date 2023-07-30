@@ -14,6 +14,8 @@ Then you can call the CLI using `./download-google-fonts`.
 
 ### Supported arguments:
 
+| Arg | Description |
+| --- | --- |
 | `-url` | The URL of the Google Web Fonts to download |
 | `-output` | The absolute or relative path of the desired output directory |
 | `-destination` | An optional URL to a CDN or server location where to fonts will be hosted |
