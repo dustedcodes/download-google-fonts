@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# Output folder of the executable
+output

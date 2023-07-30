@@ -1,2 +1,3 @@
-# download-google-fonts
-A small Go executable to download Google web fonts for self hosting on your own servers.
+# Download Google Web Fonts
+
+A small Go executable to download Google web fonts for self hosting fonts on your own servers.
