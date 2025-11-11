@@ -1,3 +1,3 @@
 module github.com/dustedcodes/download-google-fonts
 
-go 1.20
+go 1.25.3
